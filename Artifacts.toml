@@ -1,0 +1,28 @@
+[[SSDC_PRIMA]]
+arch = "aarch64"
+git-tree-sha1 = "2ee3fab0ebf9b4674728d9da71a87b7a2d223beb"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SSDC_PRIMA.download]]
+    sha256 = "a212b366d8981e67e96fae20ce1b01faa3083dc622396e862b9910b902d49a05"
+    url = "file:///Users/granthec/.julia/dev/SSDC_PRIMA.jl/lib/products/SSDC_PRIMA.v0.7.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[SSDC_PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "5242bccc0e2f20c250602d6bebb461087623673e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SSDC_PRIMA.download]]
+    sha256 = "621497ccea5c3c09f43b7799d418fd7c35753cbff6ff943a07840326af4e8871"
+    url = "file:///Users/granthec/.julia/dev/SSDC_PRIMA.jl/lib/products/SSDC_PRIMA.v0.7.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[SSDC_PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "ce7210fe1247d707b1acdcaf168076dd8df21238"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SSDC_PRIMA.download]]
+    sha256 = "6e96d47e16891bcb5fa4eb3432c186d29f3c75114f05b39bf67e821ce872afc0"
+    url = "file:///Users/granthec/.julia/dev/SSDC_PRIMA.jl/lib/products/SSDC_PRIMA.v0.7.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
